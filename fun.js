@@ -4,7 +4,7 @@
         img.style.width="50px";
         img.style.height="50px";
         img.style.position="absolute"
-        img.style.backgroundImage="url(goat.gif)"
+        img.style.backgroundImage="url(https://raw.githubusercontent.com/huangfuying98/test/main/goat.gif)"
         img.style.backgroundSize="cover"
         img.style.zIndex="9999"
         document.body.appendChild(img)
